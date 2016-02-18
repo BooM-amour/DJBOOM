@@ -235,13 +235,13 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
-    disabled_channels = {},
+    sudo_users = {116495130,145266153},--Sudo users
+    disabled_channels = {@zvirusx},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
+    about_text = [x_ViRuS_X V 1
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
+    @vvViRuSss[DeVeLoPeR] 
     
     #Open_Source 
     [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
