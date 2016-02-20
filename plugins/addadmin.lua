@@ -14,7 +14,7 @@ end
 end
 return {
     usage = {
-      "Addadmin: Add Sudo In Group."
+      "AddAmouR: Add Sudo In Group."
       },
     patterns = {
         "^([Aa]ddadmin)$"
